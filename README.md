@@ -41,7 +41,7 @@ https://firebase.google.com.
 ## Testing
 
 Firebase Android libraries exercise all three types of tests recommended by the
-[Android Testing Pyramid](https://developer.android.com/training/testing/fundamentals#testing-pyramid).
+[Android Testing -pyramid).
 Depending on the requirements of the specific project, some or all of these
 tests may be used to support changes.
 
